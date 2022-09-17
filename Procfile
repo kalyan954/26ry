@@ -1,1 +1,1 @@
-web: node ./kkv.js
+web: node .\kkv.js
